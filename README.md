@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Suman18-bit/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0189-rotate-array](https://github.com/Suman18-bit/LEETCODE/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/Suman18-bit/LEETCODE/tree/master/0344-reverse-string) |
 ## String
 |  |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Suman18-bit/LEETCODE/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Suman18-bit/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Suman18-bit/LEETCODE/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0189-rotate-array](https://github.com/Suman18-bit/LEETCODE/tree/master/0189-rotate-array) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Suman18-bit/LEETCODE/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Hash Table
 |  |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Suman18-bit/LEETCODE/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Suman18-bit/LEETCODE/tree/master/0066-plus-one) |
+| [0189-rotate-array](https://github.com/Suman18-bit/LEETCODE/tree/master/0189-rotate-array) |
 ## Dynamic Programming
 |  |
 | ------- |
