@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Suman18-bit/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/Suman18-bit/LEETCODE/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/Suman18-bit/LEETCODE/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Suman18-bit/LEETCODE/tree/master/0344-reverse-string) |
 ## String
 |  |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Suman18-bit/LEETCODE/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Suman18-bit/LEETCODE/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Suman18-bit/LEETCODE/tree/master/0217-contains-duplicate) |
+| [0283-move-zeroes](https://github.com/Suman18-bit/LEETCODE/tree/master/0283-move-zeroes) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Suman18-bit/LEETCODE/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Hash Table
 |  |
